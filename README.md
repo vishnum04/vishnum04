@@ -1,13 +1,13 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm [Vishnu Macharla], a passionate software developer with a love for [Machine Learning and Web Development]. I'm always excited to learn new things and work on cool projects!
+Hi there! I'm Vishnu Macharla , a passionate software developer with a love for Machine Learning and Web Development . I'm always excited to learn new things and work on cool projects!
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Java, C++, [Add more languages you know]
-- **Web Development:** HTML, CSS, React, Node.js, [Other web technologies]
-- **Database:** MySQL, MongoDB, PostgreSQL, [Other databases]
-- **Tools:** Git, Docker, Kubernetes, VS Code, [Any other tools you're familiar with]
+- **Languages:** Python, JavaScript, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js
+- **Database:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, Docker, Kubernetes, VS Code
 
 ## 📈 GitHub Stats
 
