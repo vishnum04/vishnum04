@@ -11,7 +11,7 @@ Hi there! I'm [Your Name], a passionate software developer with a love for [Prog
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnum04&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🔍 What I'm Working On
 
