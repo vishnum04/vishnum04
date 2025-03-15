@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm [Your Name], a passionate software developer with a love for [Programming Languages/Technologies you love]. I'm always excited to learn new things and work on cool projects!
+Hi there! I'm [Vishnu Macharla], a passionate software developer with a love for [Machine Learning and Web Development]. I'm always excited to learn new things and work on cool projects!
 
 ## 🔧 Technologies & Tools
 
