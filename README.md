@@ -1,23 +1,15 @@
-Sure! Here’s a **well-structured, engaging, and professional** GitHub profile overview for you:  
+# 🚀 Hi there! I'm **Vishnuvardhan Babu**
 
----
 
-# 🚀 Welcome to My GitHub Profile! 👋  
-
-Hi there! I'm **Vishnuvardhan Babu**, a **passionate software developer** with expertise in **Machine Learning, Web Development, and Automation**. I love solving complex problems, contributing to open-source projects, and building innovative applications.  
 
 ## 💡 About Me  
-
-🔹 **Tech Enthusiast:** Always exploring cutting-edge technologies.  
-🔹 **Problem Solver:** Enjoy tackling challenges in AI, Web Dev, and Automation.  
-🔹 **Open-Source Contributor:** Actively working on impactful projects.  
+I am a  passionate engineering student studying in Vardhaman College of Engineering. My interest lies  in ** Web Development ,Machine Learning , Problem Solving, DSA **, I am very eager to learn new things and technologies .
 
 ## 🔧 Technologies & Tools  
 
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### 🌐 Web Development  
