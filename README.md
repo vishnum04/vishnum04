@@ -7,7 +7,8 @@ I am a passionate engineering student at **Vardhaman College of Engineering**. M
 
 - **Languages:** C, Python, Java  
 - **Web Development:** HTML5, CSS3, JavaScript  
-- **Databases:** MySQL, MongoDB  
+- **Databases:** MySQL, MongoDB
+- **Cloud Technologies:** AWS
 - **Tools:** Git, GitHub, VS Code  
 - **Relevant Coursework:** Object-Oriented Programming, Operating Systems, DBMS, Computer Networks  
 
@@ -18,9 +19,9 @@ I am a passionate engineering student at **Vardhaman College of Engineering**. M
 
 ## 🔥 Projects  
 
-- **🐍 Snake Game** – Built using **Python and Pygame**. Control the snake, eat food, and grow longer while avoiding collisions with walls and yourself! 🎮🔥  
 - **🎥 YouTube Clone** – Developed using **HTML and CSS**. This project replicates YouTube’s homepage layout, featuring a structured design, video thumbnails, navigation bar, and responsive UI.  
-- **❤️ Heart Disease Prediction** – A **Machine Learning** project that predicts the likelihood of heart disease based on medical parameters. The model analyzes patient data and provides risk assessments using advanced classification algorithms.  
+- **❤️ Heart Disease Prediction** – A **Machine Learning** project that predicts the likelihood of heart disease based on medical parameters. The model analyzes patient data and provides risk assessments using advanced classification algorithms.
+- **🐍 Snake Game** – Built using **Python and Pygame**. Control the snake, eat food, and grow longer while avoiding collisions with walls and yourself! 🎮🔥 
 
 ## 📌 How to Reach Me  
 
@@ -31,4 +32,4 @@ I am a passionate engineering student at **Vardhaman College of Engineering**. M
 
 ---
 
-⭐ **_Thank you for visiting my profile! Happy coding!_** 🎯  
+⭐ **_Thank you for visiting my profile!* 🎯  
