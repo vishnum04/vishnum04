@@ -20,8 +20,8 @@ I am a  passionate engineering student studying in Vardhaman College of Engineer
 
 ## 🔥 Projects  
 
- - A classic Snake Game built using Python and Pygame. Control the snake, eat the food, and grow longer while avoiding collisions with the walls and itself!
- - YouTube Clone built using HTML and CSS. This project replicates the layout and design of YouTube, featuring a structured homepage, video thumbnails, navigation bar, and a responsive design.
+-  **Snake Game** built using Python and Pygame. Control the snake, eat the food, and grow longer while avoiding collisions with the walls and yourself! 🎮🔥
+ - **YouTube Clone** built using HTML and CSS. This project replicates the layout and design of YouTube, featuring a structured homepage, video thumbnails, navigation bar, and a responsive design.
 - A Machine Learning project that predicts the likelihood of heart disease based on medical parameters. This model analyzes patient data and provides risk assessments using advanced classification algorithms.
 
 ## 📌 How to Reach Me  
