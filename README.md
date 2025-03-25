@@ -3,7 +3,9 @@
 
 
 ## 💡 About Me  
-I am a  passionate engineering student studying in Vardhaman College of Engineering. My interest lies  in ** Web Development ,Machine Learning , Problem Solving, DSA **, I am very eager to learn new things and technologies .
+I am a  passionate engineering student studying in Vardhaman College of Engineering. My interest lies  in  Web Development ,Machine Learning , Problem Solving, DSA . I am very eager to learn new things and technologies .
+
+## 🔧 Technologies & Tools
 
 - **Languages:** Python, JavaScript, Java, C++
 - **Web Development:** HTML, CSS, React, Node.js
