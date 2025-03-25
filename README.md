@@ -12,9 +12,7 @@ I am a  passionate engineering student studying in Vardhaman College of Engineer
 - **Database:** MySQL, MongoDB
 - **Tools:** Git, Github, VS Code
 - **Relevant CourseWork:** Object-Oriented Programming , Operating Systems , DBMS , Computer Networks 
-- 
-
-- 
+  
 ## 📊 GitHub Stats  
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnum04&show_icons=true&count_private=true&theme=radical)  
@@ -22,9 +20,9 @@ I am a  passionate engineering student studying in Vardhaman College of Engineer
 
 ## 🔥 Projects  
 
-🔹 A classic Snake Game built using Python and Pygame. Control the snake, eat the food, and grow longer while avoiding collisions with the walls and itself!
-🔹 YouTube Clone built using HTML and CSS. This project replicates the layout and design of YouTube, featuring a structured homepage, video thumbnails, navigation bar, and a responsive design.
-🔹 A Machine Learning project that predicts the likelihood of heart disease based on medical parameters. This model analyzes patient data and provides risk assessments using advanced classification algorithms.
+ - A classic Snake Game built using Python and Pygame. Control the snake, eat the food, and grow longer while avoiding collisions with the walls and itself!
+ - YouTube Clone built using HTML and CSS. This project replicates the layout and design of YouTube, featuring a structured homepage, video thumbnails, navigation bar, and a responsive design.
+- A Machine Learning project that predicts the likelihood of heart disease based on medical parameters. This model analyzes patient data and provides risk assessments using advanced classification algorithms.
 
 ## 📌 How to Reach Me  
 
@@ -38,6 +36,4 @@ I am a  passionate engineering student studying in Vardhaman College of Engineer
 
 ⭐ **_Thank you for visiting my profile! Happy coding!_** 🎯  
 
----
 
-Would you like me to customize it further based on specific interests or projects you're working on? 😊
