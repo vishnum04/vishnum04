@@ -5,30 +5,16 @@
 ## 💡 About Me  
 I am a  passionate engineering student studying in Vardhaman College of Engineering. My interest lies  in ** Web Development ,Machine Learning , Problem Solving, DSA **, I am very eager to learn new things and technologies .
 
-## 🔧 Technologies & Tools  
+- **Languages:** Python, JavaScript, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js
+- **Database:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, Docker, Kubernetes, VS Code
 
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-### 🌐 Web Development  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### 🛠 Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
+- 
 ## 📊 GitHub Stats  
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnuv04&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuv04&layout=compact&theme=radical)  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnum04&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnum04&layout=compact&theme=radical)  
 
 ## 🔥 Current Projects  
 
